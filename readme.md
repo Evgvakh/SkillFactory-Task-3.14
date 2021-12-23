@@ -3,7 +3,7 @@
 
  LICENCE: [MIT](license.md)
 
- ![gitlogo](assets\1280px-Git-logo.svg.png)
+ ![gitlogo](D:\SkFy\Task 4.1\assets\1280px-Git-logo.svg.png)
 
  ---
 
@@ -38,5 +38,5 @@
 
 ---
 
-![image](assets\Image.png)
+![image](D:\SkFy\Task 4.1\assets\Image.png)
 
